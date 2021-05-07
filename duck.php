@@ -36,6 +36,7 @@ Duck boiz
 <video width="400" controls>
 <source src="duck.mp4" type="video/mp4">
 
+<!-- Catch case for using a browser that does not support video imbedding -->
 Your browser does not support HTML video.
 </video>
 </center>
