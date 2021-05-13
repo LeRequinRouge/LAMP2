@@ -29,11 +29,17 @@ echo "Connection failed: Try again later" . $e->getMessage();
 
 </head>
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 7f992045a3d379e991f38a0c6a49747aa698aa7b
 <nav>
 <ul>
 
 <!-- Navigable links to other .php files -->
 <li><a href="index.php">Home</a></li>
+<<<<<<< HEAD
 <li><a href="table.php">Table</a></li>
 <li><a href="duck.php">Duck</a></li>
 <li><a href="phpinfo.php">Info</a></li>
@@ -72,3 +78,23 @@ Adaptive Mono-Ski, Bi-Ski, 3-Track.
 
 </body>
 </html>
+=======
+<li><a href="duck.php">Duck</a></li>
+<li><a href="phpinfo.php">Info</a></li>
+
+
+</ul>
+</nav>
+<heading1>
+Welcome! Test.
+</headin>
+<hr>
+<body>
+<texti>
+To visit different pages, simply click the links to your destination!
+</texti>
+</body>
+</html>
+
+
+>>>>>>> 7f992045a3d379e991f38a0c6a49747aa698aa7b
